@@ -88,3 +88,19 @@ body {
   max-height: 500px;
   margin-top: -50px;
 }
+
+#faq .card {
+  border: #444;
+  margin: 10px;
+}
+
+#faq a {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+}
